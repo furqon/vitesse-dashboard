@@ -122,7 +122,7 @@ As this template is strongly opinionated, the following provides a curated list 
 If you prefer to do it manually with the cleaner git history
 
 ```bash
-npx degit antfu/vitesse my-vitesse-app
+git clone https://github.com/furqon/vitesse-dashboard.git my-vitesse-app
 cd my-vitesse-app
 pnpm i # If you don't have pnpm installed, run: npm install -g pnpm
 ```
