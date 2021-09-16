@@ -1,15 +1,11 @@
 <p align='center'>
-  <img src='https://user-images.githubusercontent.com/11247099/111864893-a457fd00-899e-11eb-9f05-f4b88987541d.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
+  <img src='https://i.im.ge/2021/09/16/T6LAfJ.png' alt='Vitesse - Opinionated Vite Starter Template' width='600'/>
 </p>
+
+dashboard template taken from [tailwindcomponents](https://github.com/tailwindcomponents/dashboard)
 
 <p align='center'>
 Mocking up web app with <b>Vitesse</b><sup><em>(speed)</em></sup><br>
-</p>
-
-<br>
-
-<p align='center'>
-<a href="https://vitesse.netlify.app/">Live Demo</a>
 </p>
 
 <br>
